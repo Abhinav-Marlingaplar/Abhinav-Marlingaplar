@@ -7,19 +7,19 @@
 
 ## 🚀 Projects
 
-### 📝 [AI-Powered Blog Platform](https://github.com/your-username/ai-blog-platform)
+### 📝 [AI-Powered Blog Platform](https://github.com/Abhinav-Marlingaplar/Blog-App-Mern-Stack)
 > **Tech Stack:** MERN Stack, Google Gemini API, Vercel, Postman  
 - Full-stack blog platform with admin-controlled content management and comment moderation  
 - Integrated Google Gemini API to generate AI-assisted blog content  
 - Deployed on Vercel with secure JWT authentication and tested using Postman
 
-### 📚 [Multi-PDF RAG Chatbot](https://github.com/your-username/pdf-rag-chatbot)
+### 📚 [Multi-PDF RAG Chatbot](https://github.com/Abhinav-Marlingaplar/RAG-Chatbot)
 > **Tech Stack:** Python, LangChain, ChromaDB, Streamlit, Google Gemini API  
 - Built a RAG chatbot using LangChain with multi-PDF upload and document-aware chat  
 - Custom loaders and prompt templates for scalable pipeline  
 - Integrated ChromaDB for persistent local vector search
 
-### 🏠 [House Price Prediction](https://github.com/your-username/house-price-predictor)
+### 🏠 [House Price Prediction](https://github.com/Abhinav-Marlingaplar/House-Price-Prediction)
 > **Tech Stack:** Python, XGBoost, Scikit-learn, Pandas, Seaborn  
 - High-accuracy regression model with advanced preprocessing and hyperparameter tuning  
 - R² score of 0.9204 on test set  
