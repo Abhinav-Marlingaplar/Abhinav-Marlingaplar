@@ -42,7 +42,7 @@
 
 ## 🔗 Let's Connect
 - 📫 Email: abhinavsm0503@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/abhinav-marlingaplar1)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhinav-marlingaplar1/)
 
 ---
 
