@@ -25,12 +25,6 @@
 - R² score of 0.9204 on test set  
 - Submitted predictions to a Kaggle competition with strong performance (RMSE: 0.13469)
 
-### 🚦 [Accident Severity Predictor](https://github.com/your-username/accident-severity-predictor)
-> **Tech Stack:** Python, Streamlit, Scikit-learn, Matplotlib  
-- Real-time road accident severity predictor using Random Forest Classifier  
-- Interactive web UI built with Streamlit  
-- Achieved 74.7% accuracy on Kaggle dataset with hyperparameter tuning
-
 ---
 
 ## 🧠 Skills
