@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Abhinav Marlingaplar!
+#  Hi there, I'm Abhinav Marlingaplar!
 
-🎓 Computer Science Undergrad @ IIIT Kottayam (2023–2027)  
-🔍 Passionate about AI, Machine Learning, Full-Stack Development & NLP  
+ Computer Science Undergrad @ IIIT Kottayam (2023–2027)  
+ Passionate about AI, Machine Learning, Full-Stack Development & NLP  
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 📝 [AI-Powered Blog Platform](https://github.com/Abhinav-Marlingaplar/Blog-App-Mern-Stack)
 > **Tech Stack:** MERN Stack, Google Gemini API, Vercel, Postman  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 **Languages:** C++, Python, JavaScript  
 **Frontend:** React.js, HTML/CSS  
@@ -40,9 +40,9 @@
 
 ---
 
-## 🔗 Let's Connect
-- 📫 Email: abhinavsm0503@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhinav-marlingaplar1/)
+##  Let's Connect
+-  Email: abhinavsm0503@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/abhinav-marlingaplar1/)
 
 ---
 
