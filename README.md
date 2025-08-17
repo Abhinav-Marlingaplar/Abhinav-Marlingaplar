@@ -1,4 +1,4 @@
-#  Hi there, I'm Abhinav Marlingaplar!
+#  Abhinav Marlingaplar
 
  Computer Science Undergrad @ IIIT Kottayam (2023–2027)  
  Passionate about AI, Machine Learning, Full-Stack Development & NLP  
@@ -34,8 +34,7 @@
 **Backend:** Node.js, Express.js  
 **ML/NLP Tools:** Scikit-learn, XGBoost, LangChain, Streamlit  
 **Dev Tools:** Git, GitHub, VS Code, Postman, Jupyter  
-**Databases:** MongoDB, ChromaDB  
-**APIs:** Google Gemini API  
+**Databases:** MongoDB, ChromaDB 
 **Frameworks/Libraries:** Numpy, Pandas, Matplotlib, LangChain
 
 ---
