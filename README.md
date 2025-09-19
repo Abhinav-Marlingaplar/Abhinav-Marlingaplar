@@ -34,8 +34,8 @@
 **Backend:** Node.js, Express.js  
 **ML/NLP Tools:** Scikit-learn, XGBoost, LangChain, Streamlit  
 **Dev Tools:** Git, GitHub, VS Code, Postman, Jupyter  
+**Frameworks/Libraries:** Numpy, Pandas, Matplotlib, LangChain 
 **Databases:** MongoDB, ChromaDB
-**Frameworks/Libraries:** Numpy, Pandas, Matplotlib, LangChain
 
 ---
 
