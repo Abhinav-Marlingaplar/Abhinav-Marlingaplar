@@ -29,12 +29,13 @@
 
 ##  Skills
 
-**Languages:** C++, Python, JavaScript  
-**Frontend:** React.js, HTML/CSS  
-**Backend:** Node.js, Express.js 
-**ML/NLP Tools:** Scikit-learn, XGBoost, LangChain, Streamlit  
-**Dev Tools:** Git, GitHub, VS Code, Postman, Jupyter, MongoDB  
-**Frameworks/Libraries:** Numpy, Pandas, Matplotlib, LangChain 
+- **Languages:** C++, Python, JavaScript
+- **Frontend:** React.js, HTML/CSS
+- **Backend:** Node.js, Express.js
+- **ML/NLP Tools:** Scikit-learn, XGBoost, LangChain, Streamlit
+- **Dev Tools:** Git, GitHub, VS Code, Postman, Jupyter, 
+- **Frameworks/Libraries:** Numpy, Pandas, Matplotlib, LangChain
+- **Databases:** MongoDB, ChromaDB
 
 ---
 
