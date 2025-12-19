@@ -1,49 +1,57 @@
-#  Abhinav Marlingaplar
+# **Abhinav Marlingaplar**
 
- Computer Science Undergrad @ IIIT Kottayam (2023–2027)  
- Passionate about AI, Machine Learning, Full-Stack Development & NLP  
+**Computer Science Undergraduate @ IIIT Kottayam (2023–2027)**  
+Focused on Artificial Intelligence, Natural Language Processing, and Full-Stack Software Development  
 
 ---
 
-##  Projects
+## **Projects**
+
+###  [NLP Studio – Multi-Service NLP Platform](https://github.com/Abhinav-Marlingaplar/NLP-Studio)
+> **Tech Stack:** MERN Stack, Groq API, Xenova Transformers, Supabase Vector Database, JWT, Vercel, Render  
+
+- Architected and developed a production-grade NLP platform delivering multiple language intelligence services through a unified web interface  
+- Implemented a **Retrieval-Augmented Generation (RAG) chatbot** using transformer-based embeddings and vector similarity search for context-aware response generation  
+- Integrated LLM-driven **paraphrasing** and **text analytics** modules to support advanced language processing use cases  
+- Designed and implemented a secure authentication system using JWT access tokens and HTTP-only refresh tokens, aligned with modern SaaS security practices  
+
+---
 
 ### [AI-Powered Blog Platform](https://github.com/Abhinav-Marlingaplar/Blog-App-Mern-Stack)
 > **Tech Stack:** MERN Stack, Google Gemini API, Vercel, Postman  
-- Full-stack blog platform with admin-controlled content management and comment moderation  
-- Integrated Google Gemini API to generate AI-assisted blog content  
-- Deployed on Vercel with secure JWT authentication and tested using Postman
 
-### [Multi-PDF RAG Chatbot](https://github.com/Abhinav-Marlingaplar/RAG-Chatbot)
-> **Tech Stack:** Python, LangChain, ChromaDB, Streamlit, Google Gemini API  
-- Built a RAG chatbot using LangChain with multi-PDF upload and document-aware chat  
-- Custom loaders and prompt templates for scalable pipeline  
-- Integrated ChromaDB for persistent local vector search
+- Designed and developed a full-stack blogging platform with role-based content management and comment moderation  
+- Integrated Google Gemini API to enable AI-assisted content generation workflows  
+- Deployed the application on Vercel with secure JWT-based authentication and comprehensive API testing using Postman  
+
+---
 
 ### [House Price Prediction](https://github.com/Abhinav-Marlingaplar/House-Price-Prediction)
 > **Tech Stack:** Python, XGBoost, Scikit-learn, Pandas, Seaborn  
-- High-accuracy regression model with advanced preprocessing and hyperparameter tuning  
-- R² score of 0.9204 on test set  
-- Submitted predictions to a Kaggle competition with strong performance (RMSE: 0.13469)
+
+- Built a high-performance regression model incorporating advanced data preprocessing and hyperparameter optimization  
+- Achieved an **R² score of 0.9204** on the test dataset, demonstrating strong predictive performance  
+- Evaluated model performance through participation in a Kaggle competition, achieving an **RMSE of 0.13469**  
 
 ---
 
-##  Skills
+## **Technical Skills**
 
-- **Languages:** C++, Python, JavaScript
-- **Frontend:** React.js, HTML/CSS
-- **Backend:** Node.js, Express.js
-- **ML/NLP Tools:** Scikit-learn, XGBoost, LangChain, Streamlit
-- **Dev Tools:** Git, GitHub, VS Code, Postman, Jupyter, 
-- **Frameworks/Libraries:** Numpy, Pandas, Matplotlib, LangChain
-- **Databases:** MongoDB, ChromaDB
-
----
-
-##  Let's Connect
--  Email: abhinavsm0503@gmail.com
--  [LinkedIn](https://www.linkedin.com/in/abhinav-marlingaplar1/)
+- **Programming Languages:** C++, Python, JavaScript  
+- **Frontend Technologies:** React.js, HTML, CSS  
+- **Backend Technologies:** Node.js, Express.js  
+- **Machine Learning & NLP:** Scikit-learn, XGBoost, NumPy, Pandas, Matplotlib  
+- **Databases:** MongoDB, Supabase (Vector Database)  
+- **Developer Tools:** Git, GitHub, Visual Studio Code, Postman, Google Colab 
 
 ---
 
-Thanks for stopping by!<br> 
-Feel free to explore my repositories and reach out if you're interested in collaborating on AI or web development projects.
+## **Contact Information**
+
+- **Email:** abhinavsm0503@gmail.com  
+- **LinkedIn:** [linkedin.com/in/abhinav-marlingaplar1](https://www.linkedin.com/in/abhinav-marlingaplar1/)  
+
+---
+
+Thank you for reviewing my GitHub profile.  
+Please feel free to explore my repositories or contact me regarding potential collaborations, internships, or discussions related to artificial intelligence, natural language processing, and full-stack software development.
