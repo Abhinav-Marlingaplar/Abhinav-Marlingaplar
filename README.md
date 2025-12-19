@@ -10,10 +10,9 @@ Focused on Artificial Intelligence, Natural Language Processing, and Full-Stack 
 ###  [NLP Studio – Multi-Service NLP Platform](https://github.com/Abhinav-Marlingaplar/NLP-Studio)
 > **Tech Stack:** MERN Stack, Groq API, Xenova Transformers, Supabase Vector Database, JWT, Vercel, Render  
 
-- Architected and developed a production-grade NLP platform delivering multiple language intelligence services through a unified web interface  
-- Implemented a **Retrieval-Augmented Generation (RAG) chatbot** using transformer-based embeddings and vector similarity search for context-aware response generation  
-- Integrated LLM-driven **paraphrasing** and **text analytics** modules to support advanced language processing use cases  
-- Designed and implemented a secure authentication system using JWT access tokens and HTTP-only refresh tokens, aligned with modern SaaS security practices  
+- Developed a production-grade NLP platform providing multiple AI-powered language services through a unified web interface
+- Implemented a Retrieval-Augmented Generation (RAG) chatbot using transformer-based embeddings and vector similarity search for context-aware responses
+- Integrated LLM-based paraphrasing and text analytics with secure JWT authentication following modern SaaS security practices
 
 ---
 
