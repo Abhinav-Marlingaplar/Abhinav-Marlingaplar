@@ -53,4 +53,4 @@ Focused on Artificial Intelligence, Natural Language Processing, and Full-Stack 
 ---
 
 Thank you for reviewing my GitHub profile.  
-Please feel free to explore my repositories or contact me regarding potential collaborations, internships, or discussions related to artificial intelligence, natural language processing, and full-stack software development.
+Please feel free to explore my repositories or contact me regarding potential collaborations, internships, or discussions related to AI, NLP, and full-stack software development.
