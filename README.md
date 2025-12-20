@@ -1,7 +1,9 @@
 # **Abhinav Marlingaplar**
 
 **Computer Science Undergraduate @ IIIT Kottayam (2023–2027)**  
-Focused on Artificial Intelligence, Natural Language Processing, and Full-Stack Software Development  
+Focused on Artificial Intelligence, Natural Language Processing, and Full-Stack Software Development 
+
+**Portfolio:** https://abhinav-portfolio-zeta.vercel.app/
 
 ---
 
