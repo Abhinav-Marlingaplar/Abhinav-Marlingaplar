@@ -1,9 +1,8 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:011d47,100:161b22&height=120&text=Abhinav%20Marlingaplar&fontSize=48&fontColor=bbd5fc&fontAlignY=55&fontFamily=Georgia" 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:011d47,100:161b22&height=120&text=Abhinav%20Marlingaplar&fontSize=48&fontColor=b0d0ff&fontAlignY=55&fontFamily=Georgia" 
   width="100%"
-  style="border: 4px solid #bbd5fc; border-radius: 20px;"
 />
 
 </div>
