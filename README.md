@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Abhinav%20Marlingaplar&fontSize=48&fontColor=e2e8f0&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20IIIT%20Kottayam&descSize=16&descAlignY=58&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=180&section=header&text=Abhinav%20Marlingaplar&fontSize=52&fontColor=e2e8f0&fontAlignY=40&fontFamily=Georgia&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20IIIT%20Kottayam&descSize=15&descAlignY=60&descColor=94a3b8" width="100%"/>
 
 </div>
 
@@ -19,20 +19,9 @@
 
 ---
 
-## `$ whoami`
+B.Tech Computer Science (AI & Data Science) · IIIT Kottayam · 2023–2027
 
-```
-B.Tech Computer Science (AI & Data Science)  ·  IIIT Kottayam  ·  2023–2027
-Currently:  Agentic AI Intern @ Koorier Inc.
-Interests:  Multi-Agent Systems · RAG Pipelines · Full-Stack AI Products
-```
-
-I build **production-ready AI systems** — from multi-agent LLM workflows to full-stack platforms with intelligent backends. I care about systems that are fast, reliable, and actually shipped.
-
-- Currently engineering a **multi-agent address remediation system** using LangGraph in production
-- Experienced in **RAG pipelines**, LLM orchestration, and agentic reasoning workflows
-- Full-stack developer with a focus on clean APIs, modular architecture, and deployment
-- **450+ LeetCode problems** across graphs, DP, trees, and sliding window
+I build production-ready AI systems and full-stack applications — from multi-agent LLM workflows to intelligent web platforms. Currently working as an **Agentic AI Intern at Koorier Inc.**, with 450+ LeetCode problems solved.
 
 ---
 
@@ -42,7 +31,7 @@ I build **production-ready AI systems** — from multi-agent LLM workflows to fu
 <tr>
 <td width="50%" valign="top">
 
-### [NLP Studio](https://github.com/Abhinav-Marlingaplar/NLP-Studio)
+### 🔬 [NLP Studio](https://github.com/Abhinav-Marlingaplar/NLP-Studio)
 **AI-Powered NLP Platform**
 
 A production-grade NLP platform with a RAG chatbot, paraphrasing engine, and text analytics — built on a modular backend.
@@ -56,12 +45,10 @@ A production-grade NLP platform with a RAG chatbot, paraphrasing engine, and tex
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
-[nlp-studio.vercel.app](https://nlp-studio.vercel.app)
-
 </td>
 <td width="50%" valign="top">
 
-### [BlogZone](https://github.com/Abhinav-Marlingaplar/Blog-App-Mern-Stack)
+### ✍️ [BlogZone](https://github.com/Abhinav-Marlingaplar/Blog-App-Mern-Stack)
 **AI-Powered Blog Platform**
 
 Full-stack blogging platform with AI-assisted content generation, role-based access control, and a clean admin dashboard.
@@ -79,7 +66,7 @@ Full-stack blogging platform with AI-assisted content generation, role-based acc
 <tr>
 <td width="50%" valign="top">
 
-### [House Price Prediction](https://github.com/Abhinav-Marlingaplar/House-Price-Prediction)
+### 🏠 [House Price Prediction](https://github.com/Abhinav-Marlingaplar/House-Price-Prediction)
 **ML Regression Pipeline**
 
 High-performance regression model with advanced preprocessing and hyperparameter tuning, validated on Kaggle.
@@ -95,7 +82,7 @@ High-performance regression model with advanced preprocessing and hyperparameter
 </td>
 <td width="50%" valign="top">
 
-### Multi-Agent Address Remediation *(Production)*
+### 🤖 Multi-Agent Address Remediation *(Production)*
 **Agentic AI System @ Koorier Inc.**
 
 A 4-agent LangGraph workflow (Researcher → Validator → Critic → Communicator) for correcting malformed shipping addresses on a live Canadian logistics platform.
@@ -149,16 +136,6 @@ A 4-agent LangGraph workflow (Researcher → Validator → Critic → Communicat
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Marlingaplar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&icon_color=3b82f6" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Marlingaplar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8" height="165"/>
-
-</div>
-
----
 
 <div align="center">
 
