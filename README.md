@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&text=Abhinav%20Marlingaplar&fontSize=48&fontColor=e6edf3&fontAlignY=55&fontFamily=Georgia" width="100%"/>
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:011d47,100:161b22&height=120&text=Abhinav%20Marlingaplar&fontSize=48&fontColor=bbd5fc&fontAlignY=55&fontFamily=Georgia" 
+  width="100%"
+  style="border: 4px solid #bbd5fc; border-radius: 20px;"
+/>
 
 </div>
 
@@ -21,7 +25,7 @@
 
 ## About
 
-B.Tech in Computer Science (AI & Data Science) at the **Indian Institute of Information Technology, Kottayam** (2023–2027), with a CGPA of 8.27/10.
+B.Tech in Computer Science (AI & Data Science) at the **Indian Institute of Information Technology, Kottayam** (2023–2027).
 
 Currently working as an **Agentic AI Intern at Koorier Inc.**, where I'm engineering a production-grade multi-agent address remediation system for a Canadian logistics platform. The system uses **LangGraph** to orchestrate a 4-agent workflow — Researcher, Validator, Critic, and Communicator — with automated reflection loops, confidence scoring, and integrations with Canada Post AddressComplete, HERE Geocoding, and StreetPerfect SERP APIs.
 
