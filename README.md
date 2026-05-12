@@ -19,11 +19,27 @@
 
 ---
 
-<ul>
-<li>B.Tech Computer Science (AI & Data Science) · IIIT Kottayam · 2023–2027</li>
-<li>Currently an **Agentic AI Intern at Koorier Inc.**, building a production-grade multi-agent address remediation system with LangGraph — 
-a 4-agent workflow (Researcher → Validator → Critic → Communicator) integrating Canada Post, HERE Geocoding, and StreetPerfect APIs. </li>
-<li>Solved **450+ problems on LeetCode** across graphs, dynamic programming, and trees.</li>
+## About Me
+
+<ul class="space-y-3 text-gray-700 leading-relaxed">
+  <li>
+    <strong>B.Tech in Computer Science (AI & Data Science)</strong> — 
+    Indian Institute of Information Technology (IIIT) Kottayam 
+    <span class="text-gray-500">(2023–2027)</span>
+  </li>
+
+  <li>
+    <strong>Agentic AI Intern at Koorier Inc.</strong> — Building a 
+    production-grade multi-agent address remediation system using 
+    <strong>LangGraph</strong>, featuring a 4-agent workflow 
+    (<em>Researcher → Validator → Critic → Communicator</em>) integrated with 
+    Canada Post, HERE Geocoding, and StreetPerfect APIs.
+  </li>
+
+  <li>
+    Solved <strong>450+ LeetCode problems</strong> across 
+    graphs, dynamic programming, trees, and advanced data structures.
+  </li>
 </ul>
 
 ---
