@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=160&section=header&text=Abhinav%20Marlingaplar&fontSize=52&fontColor=e2e8f0&fontAlignY=52&fontFamily=Georgia" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&text=Abhinav%20Marlingaplar&fontSize=48&fontColor=e6edf3&fontAlignY=55&fontFamily=Georgia" width="100%"/>
 
 </div>
 
@@ -19,74 +19,49 @@
 
 ---
 
-## About Me
+## About
 
-<ul class="space-y-3 text-gray-700 leading-relaxed">
-  <li>
-    <strong>B.Tech in Computer Science (AI & Data Science)</strong> — 
-    Indian Institute of Information Technology (IIIT) Kottayam 
-    <span class="text-gray-500">(2023–2027)</span>
-  </li>
+B.Tech in Computer Science (AI & Data Science) at the **Indian Institute of Information Technology, Kottayam** (2023–2027), with a CGPA of 8.27/10.
 
-  <li>
-    <strong>Agentic AI Intern at Koorier Inc.</strong> — Building a 
-    production-grade multi-agent address remediation system using 
-    <strong>LangGraph</strong>, featuring a 4-agent workflow 
-    (<em>Researcher → Validator → Critic → Communicator</em>) integrated with 
-    Canada Post, HERE Geocoding, and StreetPerfect APIs.
-  </li>
+Currently working as an **Agentic AI Intern at Koorier Inc.**, where I'm engineering a production-grade multi-agent address remediation system for a Canadian logistics platform. The system uses **LangGraph** to orchestrate a 4-agent workflow — Researcher, Validator, Critic, and Communicator — with automated reflection loops, confidence scoring, and integrations with Canada Post AddressComplete, HERE Geocoding, and StreetPerfect SERP APIs.
 
-  <li>
-    Solved <strong>450+ LeetCode problems</strong> across 
-    graphs, dynamic programming, trees, and advanced data structures.
-  </li>
-</ul>
+I have strong foundations in **data structures and algorithms**, having solved 450+ problems on LeetCode across graphs, dynamic programming, trees, and sliding window techniques. My broader interests lie in building agentic AI systems, RAG pipelines, and full-stack applications that are designed for production.
 
 ---
 
-## Featured Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [NLP Studio](https://github.com/Abhinav-Marlingaplar/NLP-Studio)
+**AI-Powered NLP Platform** · [nlp-studio.vercel.app](https://nlp-studio.vercel.app)
 
-### 🔬 [NLP Studio](https://github.com/Abhinav-Marlingaplar/NLP-Studio)
-**AI-Powered NLP Platform**
-
-A production-grade NLP platform with a RAG chatbot, paraphrasing engine, and text analytics — built on a modular backend.
-
-- RAG pipeline with Xenova embeddings + Supabase vector search
-- Redis caching for embeddings & LLM responses
-- JWT auth, deployed on Vercel + Render
+A production-grade NLP platform offering a RAG chatbot, paraphrasing engine, and text analytics through a unified web interface. Built a Retrieval-Augmented Generation pipeline using Xenova embeddings and Supabase vector search for low-latency, context-aware responses. Implemented Redis caching for embeddings and LLM responses, JWT authentication, and deployed on Vercel and Render.
 
 ![MERN](https://img.shields.io/badge/MERN-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F54A00?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
-🌐 [nlp-studio.vercel.app](https://nlp-studio.vercel.app)
+---
 
-</td>
-<td width="50%" valign="top">
+### [BlogZone](https://github.com/Abhinav-Marlingaplar/Blog-App-Mern-Stack)
+**AI-Powered Blog Platform** · [blog-app-mern-stack-seven.vercel.app](https://blog-app-mern-stack-seven.vercel.app/)
 
-### ✍️ [BlogZone](https://github.com/Abhinav-Marlingaplar/Blog-App-Mern-Stack)
-**AI-Powered Blog Platform**
-
-Full-stack blogging platform with AI-assisted content generation, role-based access control, and a clean admin dashboard.
-
-- Google Gemini API for blog generation from natural language
-- JWT auth with role-based access control
-- Modular REST API architecture
+A full-stack blogging platform with modular REST APIs, a secure admin dashboard, and AI-assisted content generation via the Google Gemini API. Features role-based access control, JWT authentication, and comment moderation, deployed on Vercel.
 
 ![MERN](https://img.shields.io/badge/MERN-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🌐 [blog-app-mern-stack-seven.vercel.app](https://blog-app-mern-stack-seven.vercel.app/)
+---
 
-</td>
-</tr>
-</table>
+### [House Price Prediction](https://github.com/Abhinav-Marlingaplar/House-Price-Prediction)
+**ML Regression Pipeline**
+
+A high-performance regression pipeline using XGBoost with feature engineering, ordinal encoding, and cross-validation for strong generalization. Achieved an R² of **0.9204** on test data and an RMSE of **0.13469** on Kaggle submission.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -127,9 +102,5 @@ Full-stack blogging platform with AI-assisted content generation, role-based acc
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
-
-*Open to internships, collaborations, and interesting problems in AI and full-stack development.*
-
+<sub>Open to internships, collaborations, and interesting problems in AI and full-stack development.</sub>
 </div>
