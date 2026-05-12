@@ -82,6 +82,8 @@ Full-stack blogging platform with AI-assisted content generation, role-based acc
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+🌐 [blog-app-mern-stack-seven.vercel.app](https://blog-app-mern-stack-seven.vercel.app/)
+
 </td>
 </tr>
 </table>
