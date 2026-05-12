@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=180&section=header&text=Abhinav%20Marlingaplar&fontSize=52&fontColor=e2e8f0&fontAlignY=40&fontFamily=Georgia&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20IIIT%20Kottayam&descSize=15&descAlignY=60&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=160&section=header&text=Abhinav%20Marlingaplar&fontSize=52&fontColor=e2e8f0&fontAlignY=52&fontFamily=Georgia" width="100%"/>
 
 </div>
 
@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abhinav-portfolio-zeta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-marlingaplar1/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Email](https://img.shields.io/badge/Email-abhinavsm0503%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsm0503@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsm0503@gmail.com)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 B.Tech Computer Science (AI & Data Science) · IIIT Kottayam · 2023–2027
 
-I build production-ready AI systems and full-stack applications — from multi-agent LLM workflows to intelligent web platforms. Currently working as an **Agentic AI Intern at Koorier Inc.**, with 450+ LeetCode problems solved.
+Currently an **Agentic AI Intern at Koorier Inc.**, building a production-grade multi-agent address remediation system with LangGraph — a 4-agent workflow (Researcher → Validator → Critic → Communicator) integrating Canada Post, HERE Geocoding, and StreetPerfect APIs. Solved **450+ problems on LeetCode** across graphs, dynamic programming, and trees.
 
 ---
 
@@ -44,6 +44,8 @@ A production-grade NLP platform with a RAG chatbot, paraphrasing engine, and tex
 ![Groq](https://img.shields.io/badge/Groq_API-F54A00?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+
+🌐 [nlp-studio.vercel.app](https://nlp-studio.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -78,21 +80,6 @@ High-performance regression model with advanced preprocessing and hyperparameter
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Multi-Agent Address Remediation *(Production)*
-**Agentic AI System @ Koorier Inc.**
-
-A 4-agent LangGraph workflow (Researcher → Validator → Critic → Communicator) for correcting malformed shipping addresses on a live Canadian logistics platform.
-
-- Integrates StreetPerfect SERP, Canada Post AddressComplete, HERE Geocoding
-- Playwright-based headless scraper with anti-detection as fallback
-- Deterministic critic with confidence scoring & retry loops
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 </td>
 </tr>
@@ -135,7 +122,6 @@ A 4-agent LangGraph workflow (Researcher → Validator → Critic → Communicat
 </div>
 
 ---
-
 
 <div align="center">
 
