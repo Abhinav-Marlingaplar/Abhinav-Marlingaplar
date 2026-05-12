@@ -19,9 +19,12 @@
 
 ---
 
-B.Tech Computer Science (AI & Data Science) · IIIT Kottayam · 2023–2027
-
-Currently an **Agentic AI Intern at Koorier Inc.**, building a production-grade multi-agent address remediation system with LangGraph — a 4-agent workflow (Researcher → Validator → Critic → Communicator) integrating Canada Post, HERE Geocoding, and StreetPerfect APIs. Solved **450+ problems on LeetCode** across graphs, dynamic programming, and trees.
+<ul>
+<li>B.Tech Computer Science (AI & Data Science) · IIIT Kottayam · 2023–2027</li>
+<li>Currently an **Agentic AI Intern at Koorier Inc.**, building a production-grade multi-agent address remediation system with LangGraph — 
+a 4-agent workflow (Researcher → Validator → Critic → Communicator) integrating Canada Post, HERE Geocoding, and StreetPerfect APIs. </li>
+<li>Solved **450+ problems on LeetCode** across graphs, dynamic programming, and trees.</li>
+</ul>
 
 ---
 
@@ -62,24 +65,6 @@ Full-stack blogging platform with AI-assisted content generation, role-based acc
 ![MERN](https://img.shields.io/badge/MERN-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [House Price Prediction](https://github.com/Abhinav-Marlingaplar/House-Price-Prediction)
-**ML Regression Pipeline**
-
-High-performance regression model with advanced preprocessing and hyperparameter tuning, validated on Kaggle.
-
-- XGBoost with feature engineering & ordinal encoding
-- **R² = 0.9204** on test data
-- **RMSE = 0.13469** on Kaggle leaderboard
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
 </tr>
