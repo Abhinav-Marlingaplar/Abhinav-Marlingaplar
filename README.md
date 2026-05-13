@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: Georgia, serif; font-size: 2.5rem; font-weight: 400; letter-spacing: 0.1em;">Abhinav Marlingaplar</h1>
+  <h1 style="font-family: Georgia, serif; font-size: 5rem; font-weight: 400; letter-spacing: 0.1em;">Abhinav Marlingaplar</h1>
   <hr width="40%" />
 </div>
 
