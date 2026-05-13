@@ -1,10 +1,6 @@
 <div align="center">
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:011d47,100:161b22&height=120&text=Abhinav%20Marlingaplar&fontSize=48&fontColor=b0d0ff&fontAlignY=55&fontFamily=Georgia" 
-  width="100%"
-/>
-
+  <h1 style="font-family: Georgia, serif; font-size: 2.5rem; font-weight: 400; letter-spacing: 0.1em;">Abhinav Marlingaplar</h1>
+  <hr width="40%" />
 </div>
 
 <br/>
