@@ -13,7 +13,7 @@
 
 ## Highlights
 
-- Agentic AI Intern @ **Koorier Inc.**
+- Agentic AI Intern @ **Koorier Inc.** - Developing a production-grade multi-agent workflow that automates shipping address validation and correction for a Canadian logistics platform.
 - B.Tech CS (AI & Data Science) @ **IIIT Kottayam** · 2023–2027
 - Developed production-grade AI systems using RAG, LangGraph, Redis, and vector databases
 - Solved **500+ DSA problems** on LeetCode
@@ -22,9 +22,9 @@
 
 ## About
 
-Computer Science student at IIIT Kottayam focused on building production-grade AI systems, distributed backend services, and cloud-native infrastructure. My interests lie at the intersection of agentic AI, RAG architectures, distributed systems, and production backend engineering.
-
-Currently exploring how AI agents can be integrated into real-world operational workflows while maintaining reliability, observability, and scalability.
+- Computer Science student at IIIT Kottayam focused on building production-grade AI systems, distributed backend services, and cloud-native infrastructure.
+- My interests lie at the intersection of agentic AI, RAG architectures, distributed systems, and production backend engineering.
+- Currently exploring how AI agents can be integrated into real-world operational workflows while maintaining reliability, observability, and scalability.
 
 ---
 
@@ -91,7 +91,6 @@ A complete machine learning regression pipeline for house price prediction with 
 | **Backend** | Node.js, Express.js, REST APIs |
 | **Databases** | PostgreSQL, MongoDB |
 | **Infrastructure** | Docker, Kubernetes, RabbitMQ |
-| **AI & Data** | LangGraph, RAG Pipelines, Redis, Vector Databases, XGBoost, Scikit-learn |
 | **Tools** | Git, GitHub, Postman |
 
 ---
