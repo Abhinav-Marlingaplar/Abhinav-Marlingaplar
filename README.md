@@ -11,84 +11,100 @@
 
 ---
 
+## Highlights
+
+- Agentic AI Intern @ **Koorier Inc.**
+- B.Tech CS (AI & Data Science) @ **IIIT Kottayam** · 2023–2027
+- Developed production-grade AI systems using RAG, LangGraph, Redis, and vector databases
+- Solved **500+ DSA problems** on LeetCode
+
+---
+
 ## About
 
-- B.Tech in CS (AI & Data Science) @ **IIIT Kottayam** · 2023–2027
+Computer Science student at IIIT Kottayam focused on building production-grade AI systems, distributed backend services, and cloud-native infrastructure. My interests lie at the intersection of agentic AI, RAG architectures, distributed systems, and production backend engineering.
 
-- **Agentic AI Intern @ Koorier Inc.** — building a production-grade multi-agent system using LangGraph to auto-detect and fix malformed shipping addresses for a Canadian logistics platform
-
-- Interests: agentic AI, RAG pipelines, full-stack systems built for production
-
-- 500+ DSA problems solved on LeetCode
+Currently exploring how AI agents can be integrated into real-world operational workflows while maintaining reliability, observability, and scalability.
 
 ---
 
 ## Projects
 
 ### [Ops Pilot](https://ops-pilot-rho.vercel.app) · Cloud-Native CI/CD Automation Platform
-`React` `Node.js` `RabbitMQ` `Docker` `Kubernetes` `PostgreSQL (NeonDB)` `Socket.IO`
+
+`React` `Node.js` `RabbitMQ` `Docker` `Kubernetes` `PostgreSQL` `Socket.IO`
 
 A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch.
 
-- Asynchronous pipeline execution with distributed worker pods for automated build, test, Docker image generation, and Kubernetes deployment
-- GitHub webhook integration, real-time build monitoring via Socket.IO, and fault-tolerant job processing with RabbitMQ retry mechanisms
+**Key Features**
+- Asynchronous pipeline execution through distributed worker pods
+- Automated build, test, Docker image generation, and Kubernetes deployment workflows
+- GitHub webhook integration for repository-triggered pipelines
+- Real-time build monitoring via Socket.IO
+- Fault-tolerant job processing with RabbitMQ retry mechanisms
+
+**Engineering Highlights**
+- Designed around event-driven architecture principles
+- Supports scalable pipeline execution through independent worker services
+- Built with cloud-native deployment and container orchestration in mind
 
 ---
 
 ### [NLP Studio](https://nlp-studio.vercel.app) · AI-Powered NLP Platform
+
 `MERN` `Supabase pgvector` `Groq API` `Redis` `JWT` `Vercel` `Render`
 
-A production-grade NLP platform with a RAG chatbot, paraphrasing engine, and text analytics.
+A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, and text analytics suite.
 
-- RAG pipeline using Xenova Transformers (MiniLM L6 v2) and Supabase pgvector similarity search with per-session conversation history in Redis
-- Dual-layer Redis caching (embeddings 24h, responses 1h), JWT auth with HTTP-only cookies, and silent Axios token refresh
+**Key Features**
+- RAG pipeline powered by MiniLM (L6 v2) embeddings and pgvector similarity search
+- Per-session conversation memory stored in Redis
+- JWT authentication with HTTP-only cookies
+- Silent token refresh implementation using Axios interceptors
+
+**Engineering Highlights**
+- Dual-layer Redis caching strategy: embeddings cached for 24h, responses for 1h
+- Optimized retrieval latency through vector search and layered caching
+- Designed for scalable conversational AI workloads
 
 ---
 
 ### [House Price Prediction](https://github.com/Abhinav-Marlingaplar/House-Price-Prediction) · ML Regression Pipeline
+
 `Python` `XGBoost` `Scikit-learn` `Pandas`
 
-- XGBoost regression pipeline with feature engineering, ordinal encoding, and cross-validation — **R² of 0.9204** on test data, **RMSE of 0.13469** on Kaggle
+A complete machine learning regression pipeline for house price prediction with feature engineering, ordinal encoding, and cross-validation.
+
+| Metric | Score |
+|--------|-------|
+| R² Score | 0.9204 |
+| RMSE (Kaggle) | 0.13469 |
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**Languages**
+| Area | Technologies |
+|------|-------------|
+| **Languages** | C++, Python, JavaScript, SQL |
+| **Frontend** | React, HTML, CSS |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Databases** | PostgreSQL, MongoDB |
+| **Infrastructure** | Docker, Kubernetes, RabbitMQ |
+| **AI & Data** | LangGraph, RAG Pipelines, Redis, Vector Databases, XGBoost, Scikit-learn |
+| **Tools** | Git, GitHub, Postman |
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-**Web Technologies**
+## Open To
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- Software Engineering Internships
+- AI/ML Engineering Internships
+- Open Source Collaboration
+- Full-Stack Development Opportunities
 
 ---
 
 <div align="center">
-<sub>Open to internships and collaborations in AI systems and full-stack development.</sub>
+<sub>"I enjoy building systems that solve real problems — from AI-powered workflows to scalable backend infrastructure."</sub>
 </div>
