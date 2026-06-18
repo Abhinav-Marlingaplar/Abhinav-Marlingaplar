@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 `React` `Node.js` `RabbitMQ` `Docker` `Kubernetes` `PostgreSQL` `Socket.IO`
 
@@ -47,9 +47,9 @@ A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch
 - Fault-tolerant job processing with RabbitMQ retry mechanisms
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-<img src="images/image1.png" alt="Ops Pilot landing page" height="320">
+<img src="image/image1.png" alt="Ops Pilot landing page" width="100%">
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 `MERN` `Supabase pgvector` `Groq API` `Redis` `JWT` `Vercel` `Render`
 
@@ -73,9 +73,9 @@ A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, an
 - Dual-layer Redis caching strategy: embeddings cached for 24h, responses for 1h
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-<img src="images/image2.png" alt="NLP Studio landing page" height="320">
+<img src="image/image2.png" alt="NLP Studio landing page" width="100%">
 
 </td>
 </tr>
