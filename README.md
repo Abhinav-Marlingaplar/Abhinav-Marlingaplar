@@ -47,11 +47,6 @@ A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch
 - Real-time build monitoring via Socket.IO
 - Fault-tolerant job processing with RabbitMQ retry mechanisms
 
-**Engineering Highlights**
-- Designed around event-driven architecture principles
-- Supports scalable pipeline execution through independent worker services
-- Built with cloud-native deployment and container orchestration in mind
-
 </td>
 <td width="50%" valign="top">
 
@@ -78,11 +73,6 @@ A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, an
 - Per-session conversation memory stored in Redis
 - JWT authentication with HTTP-only cookies
 - Silent token refresh implementation using Axios interceptors
-
-**Engineering Highlights**
-- Dual-layer Redis caching strategy: embeddings cached for 24h, responses for 1h
-- Optimized retrieval latency through vector search and layered caching
-- Designed for scalable conversational AI workloads
 
 </td>
 <td width="50%" valign="top">
