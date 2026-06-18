@@ -32,6 +32,10 @@
 
 ### [Ops Pilot](https://ops-pilot-rho.vercel.app) · Cloud-Native CI/CD Automation Platform
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 `React` `Node.js` `RabbitMQ` `Docker` `Kubernetes` `PostgreSQL` `Socket.IO`
 
 A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch.
@@ -48,9 +52,22 @@ A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch
 - Supports scalable pipeline execution through independent worker services
 - Built with cloud-native deployment and container orchestration in mind
 
+</td>
+<td width="50%" valign="top">
+
+<img src="image/image1.png" alt="Ops Pilot landing page" width="100%">
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### [NLP Studio](https://nlp-studio.vercel.app) · AI-Powered NLP Platform
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 `MERN` `Supabase pgvector` `Groq API` `Redis` `JWT` `Vercel` `Render`
 
@@ -67,18 +84,14 @@ A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, an
 - Optimized retrieval latency through vector search and layered caching
 - Designed for scalable conversational AI workloads
 
----
+</td>
+<td width="50%" valign="top">
 
-### [House Price Prediction](https://github.com/Abhinav-Marlingaplar/House-Price-Prediction) · ML Regression Pipeline
+<img src="image/image2.png" alt="NLP Studio landing page" width="100%">
 
-`Python` `XGBoost` `Scikit-learn` `Pandas`
-
-A complete machine learning regression pipeline for house price prediction with feature engineering, ordinal encoding, and cross-validation.
-
-| Metric | Score |
-|--------|-------|
-| R² Score | 0.9204 |
-| RMSE (Kaggle) | 0.13469 |
+</td>
+</tr>
+</table>
 
 ---
 
