@@ -50,7 +50,7 @@ A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch
 </td>
 <td width="50%" valign="top">
 
-<img src="image/image1.png" alt="Ops Pilot landing page" width="100%">
+<img src="image/image1.png" alt="Ops Pilot landing page" width="100%" height="85%">
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, an
 </td>
 <td width="50%" valign="top">
 
-<img src="image/image2.png" alt="NLP Studio landing page" width="100%">
+<img src="image/image2.png" alt="NLP Studio landing page" width="100%" height="85%">
 
 </td>
 </tr>
