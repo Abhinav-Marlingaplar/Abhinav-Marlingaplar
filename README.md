@@ -49,7 +49,7 @@ A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch
 </td>
 <td width="60%" valign="top">
 
-<img src="image/image1.png" alt="Ops Pilot landing page" width="100%">
+<img src="image/image1.png" alt="Ops Pilot landing page" href ="https://ops-pilot-rho.vercel.app" width="100%">
 
 </td>
 </tr>
@@ -75,7 +75,7 @@ A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, an
 </td>
 <td width="60%" valign="top">
 
-<img src="image/image2.png" alt="NLP Studio landing page" width="100%">
+<img src="image/image2.png" alt="NLP Studio landing page" href="https://nlp-studio.vercel.app" width="100%">
 
 </td>
 </tr>
