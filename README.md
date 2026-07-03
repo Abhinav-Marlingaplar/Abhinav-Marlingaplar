@@ -1,13 +1,9 @@
-<div align="center">
-
 # Abhinav Marlingaplar
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://abhinav-portfolio-nine-gules.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-marlingaplar1/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhinav-Marlingaplar/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavsm0503@gmail.com)
-
-</div>
 
 ---
 
@@ -16,7 +12,6 @@
 - Agentic AI Intern @ **Koorier Inc.** - Developing a production-grade multi-agent workflow that automates shipping address validation and correction for a Canadian logistics platform.
 - B.Tech CS (AI & Data Science) @ **IIIT Kottayam** · 2023–2027
 - Solved **500+ DSA problems** on LeetCode
-- Focused on building production-grade AI systems, distributed backend services, and cloud-native infrastructure.
 
 ---
 
@@ -36,7 +31,6 @@ A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch
 - Asynchronous pipeline execution through distributed worker pods
 - Automated build, test, Docker image generation, and Kubernetes deployment workflows
 - Real-time build monitoring via Socket.IO
-- Fault-tolerant job processing with RabbitMQ retry mechanisms
 
 </td>
 <td width="60%" valign="top">
@@ -64,7 +58,7 @@ A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, an
 **Key Features**
 - RAG pipeline powered by MiniLM (L6 v2) embeddings and pgvector similarity search
 - JWT authentication with HTTP-only cookies
-- Dual-layer Redis caching strategy: embeddings cached for 24h, responses for 1h
+- Dual-layer Redis caching strategy: embeddings cached for every 24h, responses for every 1h
 
 </td>
 <td width="60%" valign="top">
@@ -87,20 +81,11 @@ A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, an
 | **Frontend** | React, HTML, CSS |
 | **Backend** | Node.js, Express.js, REST APIs |
 | **Databases** | PostgreSQL, MongoDB |
-| **Infrastructure** | Docker, Kubernetes, RabbitMQ |
+| **Infrastructure** | Docker, Kubernetes, GitHub Actions |
 | **Tools** | Git, GitHub, Postman |
 
 ---
 
-## Open To
-
-- Software Engineering Internships
-- AI/ML Engineering Internships
-- Open Source Collaboration
-- Full-Stack Development Opportunities
-
----
-
 <div align="center">
-<sub>"I enjoy building systems that solve real problems — from AI-powered workflows to scalable backend infrastructure."</sub>
+<sub>"Learn. Build. Break. Repeat."</sub>
 </div>
