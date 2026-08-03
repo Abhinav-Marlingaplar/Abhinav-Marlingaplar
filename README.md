@@ -1,8 +1,15 @@
-# Hi, I'm Abhinav Marlingaplar 👋
+<div align="center">
 
-B.Tech CS (AI & Data Science) @ IIIT Kottayam · Pune, India
+# Abhinav Marlingaplar
 
-[Portfolio](https://abhinav-portfolio-nine-gules.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhinav-marlingaplar1/) · [LeetCode](https://leetcode.com/u/Abhinav-Marlingaplar/) · [Email](mailto:abhinavsm0503@gmail.com)
+B.Tech CS (AI & Data Science), IIIT Kottayam · Pune, India
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhinav-portfolio-nine-gules.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-marlingaplar1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhinav-Marlingaplar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsm0503@gmail.com)
+
+</div>
 
 ---
 
