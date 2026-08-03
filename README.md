@@ -15,7 +15,7 @@ B.Tech CS (AI & Data Science), IIIT Kottayam · Pune, India
 
 ## Experience
 
-**R&D Intern · Airspan Networks**
+**R&D Intern · Airspan Networks** (Current)
 - Automating AMS GUI workflows with Selenium and Playwright
 - Benchmarking both frameworks on latency, stability, and maintainability
 
