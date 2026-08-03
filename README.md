@@ -1,91 +1,41 @@
-# Abhinav Marlingaplar
+# Hi, I'm Abhinav Marlingaplar 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://abhinav-portfolio-nine-gules.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-marlingaplar1/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhinav-Marlingaplar/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavsm0503@gmail.com)
+B.Tech CS (AI & Data Science) @ IIIT Kottayam · Pune, India
+
+[Portfolio](https://abhinav-portfolio-nine-gules.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhinav-marlingaplar1/) · [LeetCode](https://leetcode.com/u/Abhinav-Marlingaplar/) · [Email](mailto:abhinavsm0503@gmail.com)
 
 ---
 
-## Highlights
+## Experience
 
-- Agentic AI Intern @ **Koorier Inc.** - Developing a production-grade multi-agent workflow that automates shipping address validation and correction for a Canadian logistics platform.
-- B.Tech CS (AI & Data Science) @ **IIIT Kottayam** · 2023–2027
-- Solved **500+ DSA problems** on LeetCode
+**R&D Intern · Airspan Networks**
+- Automating AMS GUI workflows with Selenium and Playwright
+- Benchmarking both frameworks on latency, stability, and maintainability
+
+**Agentic AI Intern · Koorier Inc.**
+- Built a production 4-stage multi-agent system (LangGraph + Groq/DeepSeek) to auto-correct invalid shipping addresses
+- Deployed on AWS with GitHub Actions CI/CD and a React monitoring dashboard
 
 ---
 
 ## Projects
 
-### [Ops Pilot](https://ops-pilot-rho.vercel.app) · Cloud-Native CI/CD Automation Platform
+**[Ops Pilot](https://ops-pilot-rho.vercel.app)** — Cloud-native CI/CD platform
+- Async pipeline execution via distributed worker pods
+- GitHub webhook integration + real-time build monitoring (Socket.IO)
+- `React` `Node.js` `RabbitMQ` `Docker` `Kubernetes` `PostgreSQL`
 
-<table>
-<tr>
-<td width="40%" valign="top">
-
-`React` `Node.js` `RabbitMQ` `Docker` `Kubernetes` `PostgreSQL` `Socket.IO`
-
-A Jenkins/GitHub Actions-inspired CI/CD platform built cloud-native from scratch.
-
-**Key Features**
-- Asynchronous pipeline execution through distributed worker pods
-- Automated build, test, Docker image generation, and Kubernetes deployment workflows
-- Real-time build monitoring via Socket.IO
-
-</td>
-<td width="60%" valign="top">
-
-<a href="https://ops-pilot-rho.vercel.app">
-<img src="image/image1.png" alt="Ops Pilot landing page" width="100%">
-</a>
-
-</td>
-</tr>
-</table>
+**[NLP Studio](https://nlp-studio.vercel.app)** — AI-powered NLP platform
+- RAG document chatbot, paraphrasing engine, and text analytics suite
+- MiniLM embeddings + Supabase pgvector retrieval, dual-layer Redis caching
+- `MERN` `Groq API` `Redis` `JWT`
 
 ---
 
-### [NLP Studio](https://nlp-studio.vercel.app) · AI-Powered NLP Platform
+## Skills
 
-<table>
-<tr>
-<td width="40%" valign="top">
-
-`MERN` `Supabase pgvector` `Groq API` `Redis` `JWT` `Vercel` `Render`
-
-A production-grade NLP platform featuring a RAG chatbot, paraphrasing engine, and text analytics suite.
-
-**Key Features**
-- RAG pipeline powered by MiniLM (L6 v2) embeddings and pgvector similarity search
-- JWT authentication with HTTP-only cookies
-- Dual-layer Redis caching strategy: embeddings cached for every 24h, responses for every 1h
-
-</td>
-<td width="60%" valign="top">
-
-<a href="https://nlp-studio.vercel.app">
-<img src="image/image2.png" alt="NLP Studio landing page" width="100%">
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Technical Skills
-
-| Area | Technologies |
-|------|-------------|
-| **Languages** | C++, Python, JavaScript, SQL |
-| **Frontend** | React, HTML, CSS |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Databases** | PostgreSQL, MongoDB |
-| **Infrastructure** | Docker, Kubernetes, GitHub Actions |
-| **Tools** | Git, GitHub, Postman |
-
----
-
-<div align="center">
-<sub>"Learn. Build. Break. Repeat."</sub>
-</div>
+- **Languages:** C++, Python, JavaScript, SQL
+- **Web:** React, Node.js, Express.js
+- **Data:** PostgreSQL, MongoDB
+- **Infra:** Docker, Kubernetes, AWS, GitHub Actions
+- **Testing:** Selenium, Playwright
