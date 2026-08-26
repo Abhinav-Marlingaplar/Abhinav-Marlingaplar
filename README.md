@@ -34,7 +34,6 @@ B.Tech CS (AI & Data Science), IIIT Kottayam · Pune, India
 **[Ops Pilot](https://ops-pilot-rho.vercel.app)** — Cloud-Native CI/CD Automation Platform
 - Developed a cloud-native CI/CD platform using React, Node.js, RabbitMQ, Docker, Kubernetes, and PostgreSQL
 - Implemented asynchronous pipeline execution using distributed Kubernetes worker pods for isolated build and deployment jobs
-- Integrated RabbitMQ retry mechanisms for fault-tolerant job processing
 - Added GitHub webhooks for automated pipeline triggering and Socket.IO for real-time build monitoring
 - Provides live build status updates across CI/CD workflows
 
@@ -49,8 +48,8 @@ B.Tech CS (AI & Data Science), IIIT Kottayam · Pune, India
 ## Skills
 
 - **Languages:** C++, Python, JavaScript, SQL
-- **Web:** React.js, Node.js, Express.js
-- **AI/ML:** RAG, LangGraph, LLM APIs, NLP, Scikit-learn, XGBoost
+- **Web:** React.js, Node.js, Express.js, Django
+- **AI/ML:** RAG, LangGraph, Multi Agent Systems
 - **Databases:** PostgreSQL, MongoDB, Supabase, Redis, pgvector
 - **Testing & Automation:** Robot Framework, Selenium, Playwright
 - **Tools:** Git, GitHub, Postman
