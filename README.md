@@ -15,34 +15,46 @@ B.Tech CS (AI & Data Science), IIIT Kottayam · Pune, India
 
 ## Experience
 
-**R&D Intern · Airspan Networks** (Current)
-- Automating AMS GUI workflows with Selenium and Playwright
-- Benchmarking both frameworks on latency, stability, and maintainability
+**R&D Intern · Airspan Networks**  
+*Jul 2026 – Present · Bangalore, India*
+- Building a standalone self-healing automation engine for Robot Framework test runs and Jenkins builds, diagnosing failures and triggering recovery workflows to reduce manual intervention
+- Architected a failure analysis pipeline that ingests fault-report webhooks, retrieves Jenkins console logs via REST APIs, parses unstructured logs into structured evidence, and performs automated root-cause analysis (RCA)
+- Combined deterministic signature matching with RAG-based retrieval over PostgreSQL/pgvector and Azure LLM reasoning for hybrid RCA and automated recovery workflows
+- Established fail-safe RCA and recovery workflows that isolate deterministic matches from LLM-based analysis, preventing low-confidence outputs from triggering unsafe recovery actions
 
-**Agentic AI Intern · Koorier Inc.**
-- Built a production 4-stage multi-agent system (LangGraph + Groq/DeepSeek) to auto-correct invalid shipping addresses
-- Deployed on AWS with GitHub Actions CI/CD and a React monitoring dashboard
+**Agentic AI Intern · Koorier Inc.**  
+*May 2026 – Jul 2026 · Pune, India*
+- Designed and deployed a production multi-agent AI system using LangGraph to diagnose and remediate invalid shipping addresses, processing 100–120 flagged orders daily from a 3,000-package workload
+- Engineered a 4-stage agent workflow combining LLM reasoning with deterministic rules and human-in-the-loop escalation for automated address remediation
+- Deployed the system on AWS with GitHub Actions CI/CD and built a React monitoring dashboard for secure production releases and operational monitoring
+- Automated agent workflows with structured routing, retry logic, and production monitoring to improve reliability and escalation accuracy
 
 ---
 
 ## Projects
 
-**[Ops Pilot](https://ops-pilot-rho.vercel.app)** — Cloud-native CI/CD platform
-- Async pipeline execution via distributed worker pods
-- GitHub webhook integration + real-time build monitoring (Socket.IO)
-- `React` `Node.js` `RabbitMQ` `Docker` `Kubernetes` `PostgreSQL`
+**[Ops Pilot](https://ops-pilot-rho.vercel.app)** — Cloud-Native CI/CD Automation Platform
+- Developed a cloud-native CI/CD platform using React, Node.js, RabbitMQ, Docker, Kubernetes, and PostgreSQL
+- Implemented asynchronous pipeline execution using distributed Kubernetes worker pods for isolated build and deployment jobs
+- Integrated RabbitMQ retry mechanisms for fault-tolerant job processing
+- Added GitHub webhooks for automated pipeline triggering and Socket.IO for real-time build monitoring
+- Provides live build status updates across CI/CD workflows
 
-**[NLP Studio](https://nlp-studio.vercel.app)** — AI-powered NLP platform
-- RAG document chatbot, paraphrasing engine, and text analytics suite
-- MiniLM embeddings + Supabase pgvector retrieval, dual-layer Redis caching
-- `MERN` `Groq API` `Redis` `JWT`
+**[NLP Studio](https://nlp-studio.vercel.app)** — AI-Powered NLP Platform
+- Built a full-stack NLP platform featuring a RAG document chatbot, multi-variant paraphrasing engine, and text analytics suite
+- Constructed a RAG pipeline using MiniLM embeddings and Supabase pgvector for semantic similarity search
+- Implemented Redis caching to improve response performance and reduce repeated retrieval overhead
+- Added Redis caching, JWT authentication with HTTP-only session cookies, and automatic token refresh for secure and efficient sessions
 
 ---
 
 ## Skills
 
 - **Languages:** C++, Python, JavaScript, SQL
-- **Web:** React, Node.js, Express.js
-- **Data:** PostgreSQL, MongoDB
-- **Infra:** Docker, Kubernetes, AWS, GitHub Actions
-- **Testing:** Selenium, Playwright
+- **Web:** React.js, Node.js, Express.js
+- **AI/ML:** RAG, LangGraph, LLM APIs, NLP, Scikit-learn, XGBoost
+- **Databases:** PostgreSQL, MongoDB, Supabase, Redis, pgvector
+- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, GitHub Actions
+- **Messaging & APIs:** RabbitMQ, REST APIs, Socket.IO
+- **Testing & Automation:** Robot Framework, Selenium, Playwright
+- **Tools:** Git, GitHub, Postman
