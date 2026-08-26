@@ -19,7 +19,6 @@ B.Tech CS (AI & Data Science), IIIT Kottayam · Pune, India
 *Jul 2026 – Present · Bangalore, India*
 - Building a standalone self-healing automation engine for Robot Framework test runs and Jenkins builds, diagnosing failures and triggering recovery workflows to reduce manual intervention
 - Architected a failure analysis pipeline that ingests fault-report webhooks, retrieves Jenkins console logs via REST APIs, parses unstructured logs into structured evidence, and performs automated root-cause analysis (RCA)
-- Combined deterministic signature matching with RAG-based retrieval over PostgreSQL/pgvector and Azure LLM reasoning for hybrid RCA and automated recovery workflows
 - Established fail-safe RCA and recovery workflows that isolate deterministic matches from LLM-based analysis, preventing low-confidence outputs from triggering unsafe recovery actions
 
 **Agentic AI Intern · Koorier Inc.**  
@@ -27,7 +26,6 @@ B.Tech CS (AI & Data Science), IIIT Kottayam · Pune, India
 - Designed and deployed a production multi-agent AI system using LangGraph to diagnose and remediate invalid shipping addresses, processing 100–120 flagged orders daily from a 3,000-package workload
 - Engineered a 4-stage agent workflow combining LLM reasoning with deterministic rules and human-in-the-loop escalation for automated address remediation
 - Deployed the system on AWS with GitHub Actions CI/CD and built a React monitoring dashboard for secure production releases and operational monitoring
-- Automated agent workflows with structured routing, retry logic, and production monitoring to improve reliability and escalation accuracy
 
 ---
 
@@ -54,7 +52,5 @@ B.Tech CS (AI & Data Science), IIIT Kottayam · Pune, India
 - **Web:** React.js, Node.js, Express.js
 - **AI/ML:** RAG, LangGraph, LLM APIs, NLP, Scikit-learn, XGBoost
 - **Databases:** PostgreSQL, MongoDB, Supabase, Redis, pgvector
-- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, GitHub Actions
-- **Messaging & APIs:** RabbitMQ, REST APIs, Socket.IO
 - **Testing & Automation:** Robot Framework, Selenium, Playwright
 - **Tools:** Git, GitHub, Postman
